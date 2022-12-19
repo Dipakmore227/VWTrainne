@@ -1,0 +1,5 @@
+com\nama\springboot\firstdemo\model\Book.class
+com\nama\springboot\firstdemo\restful\BookRestController.class
+com\nama\springboot\firstdemo\dao\BookDao.class
+com\nama\springboot\firstdemo\FirstdemoApplication.class
+com\nama\springboot\firstdemo\repository\BookRepository.class
